@@ -18,7 +18,6 @@
      -I bought TSLA at $27 but sold at 100 :(
      -I've been Sky Diving  
      -MC Command Blocks are how I learnt to program
-     -
  
 <!--
 **bitruns/bitruns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
