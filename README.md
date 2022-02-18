@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on:  
      -
      -Reddit Scraper with applications to financial analytics  
-     -Queen's University Engineering Competition Programming Challenge  
+     -NodeJS Master Class
+     -ReactJS Master Class
+     -Hackathons out the wazoo. HMU To team :)
 - 📫 How to reach me:   
      -
      -Email: matthew0sharpe@gmail.com  
@@ -13,9 +15,10 @@
      - He/Him
 - ⚡ Fun fact:    
      -
-     -I bought TSLA at $27  
+     -I bought TSLA at $27 but sold at 100 :(
      -I've been Sky Diving  
-     -I have both a dog and cat
+     -MC Command Blocks are how I learnt to program
+     -
  
 <!--
 **bitruns/bitruns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
