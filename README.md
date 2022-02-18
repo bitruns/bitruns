@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on:  
      -
      -Reddit Scraper with applications to financial analytics  
-     -NodeJS Master Class
-     -ReactJS Master Class
-     -Hackathons out the wazoo. HMU To team :)
+     -NodeJS Master Class  
+     -ReactJS Master Class  
+     -Hackathons out the wazoo. HMU To team :)  
 - 📫 How to reach me:   
      -
      -Email: matthew0sharpe@gmail.com  
@@ -15,7 +15,7 @@
      - He/Him
 - ⚡ Fun fact:    
      -
-     -I bought TSLA at $27 but sold at 100 :(
+     -I bought TSLA at $27 but sold at 100 :(  
      -I've been Sky Diving  
      -MC Command Blocks are how I learnt to program
  
