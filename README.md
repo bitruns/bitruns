@@ -1,36 +1,54 @@
-### Hi there 👋 I'm Matthew! 
-### A student at Queen's University: Computer Sciences and Economics
-- 🔭 I’m currently working on:  
-     -
-     -Reddit Scraper with applications to financial analytics  
-     -NodeJS Master Class  
-     -ReactJS Master Class  
-     -Hackathons out the wazoo. HMU To team :)  
-- 📫 How to reach me:   
-     -
-     -Email: matthew0sharpe@gmail.com  
-     -LinkedIn: linkedin.com/in/matt-sharpe-9a56591b7  
-- 😄 Pronouns:  
-     -
-     - He/Him
-- ⚡ Fun fact:    
-     -
-     -I bought TSLA at $27 but sold at 100 :(  
-     -I've been Sky Diving  
-     -MC Command Blocks are how I learnt to program
- 
-<!--
-**bitruns/bitruns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi I'm Matthew! Welcome to my Github :relaxed: :octocat:
+### Queen's University Student :mortar_board: Class of 2024  
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/bitruns/readmeimages/main/Banner.png?token=GHSAT0AAAAAABRXJUOUAWALJPDIKSOKTG4UYQQSRIQ" width="100%"/>
+</div>
 
-- 🔭 I’m currently working on ...
-    -Program 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### "Leisure without books is death, and burrial of a man alive" - Seneca
+
+### I’m currently working on 🌱 
+- NodeJS Master Class
+- ReactJS Master Class
+- More Hackathons than I can manage 🤓
+- Developing a Reddit Scraper with <a href="https://github.com/BatuhanAktan">Batuhan</a>
+
+### My Must-Reads 📖
+  -  Sapiens - Yuval Harari  
+  -  Atomic Habits - James Clear  
+  -  Do the Work - Steven Pressfield
+
+## How to reach me 📫
+- Email: matthew0sharpe@gmail.com  
+- LinkedIn: <a href="linkedin.com/in/matt-sharpe-9a56591b7">LinkedIn</a>
+     
+
+
+## Skills 🤹‍
+
+
+<img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/SublimeText/AFileIcon/master/icons/multi/file_type_sublime%403x.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/SublimeText/AFileIcon/master/icons/multi/file_type_nodejs%403x.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/snwh/suru-icon-theme/master/Suru/256x256/apps/ubuntu-welcome-app.png" />
+<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/SublimeText/AFileIcon/master/icons/multi/file_type_arduino%403x.png" />
+
+
+
+
+
+
+
+
+
+<br>
+
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitruns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
