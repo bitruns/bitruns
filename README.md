@@ -2,7 +2,7 @@
 # Hi I'm Matthew! Welcome to my Github :relaxed: :octocat:
 <div id="header" align="center">
 
-  <img src="https://raw.githubusercontent.com/bitruns/readmeimages/main/Banner.png?token=GHSAT0AAAAAABRXJUOUAWALJPDIKSOKTG4UYQQSRIQ" width="100%"/>
+  <img src="https://raw.githubusercontent.com/bitruns/readmeimages/main/Banner.png" width="100%"/>
 
 </div>
 
