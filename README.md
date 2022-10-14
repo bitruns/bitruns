@@ -12,6 +12,10 @@
 
 ##### "Leisure without books is death, and burrial of a man alive" - Seneca
 
+### Objective :muscle:
+Working for one of the FANG is what my Goal is, however you cant spell goal without G, take that how you will 🤓  
+I have always been a forward thinking and creative individual, striving to be a producer :paintbrush:, not a consumer :wastebasket:, a free thinker, not a follower, a wiseass, not a smartass...
+
 ### I’m currently working on 🌱 
 - NodeJS Master Class
 - ReactJS Master Class
