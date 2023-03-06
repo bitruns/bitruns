@@ -2,7 +2,7 @@
 # Hi I'm Matthew! Welcome to my Github :relaxed: :octocat:
 <div id="header" align="center">
 
-  <img src="GithubBanner.png" width="100%"/>
+  <img src="GithubBanner2.png" width="100%"/>
 
 </div>
 
