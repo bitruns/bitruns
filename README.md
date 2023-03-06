@@ -20,16 +20,18 @@ I have always been a forward thinking and creative individual, striving to be a 
 - NodeJS Master Class
 - ReactJS Master Class
 - More Hackathons than I can manage 🤓
-- Developing a Reddit Scraper with <a href="https://github.com/BatuhanAktan">Batuhan</a>
+- Developing a fullstack website for CEStrategies in a professional capacity. LORD I LOVE NODEJS... slighly sarcastic, but mostly is amazing.
 
 ### My Must-Reads 📖
   -  Sapiens - Yuval Harari  
-  -  Atomic Habits - James Clear  
-  -  Do the Work - Steven Pressfield
+  -  Atomic Habits - James Clear
+  -  48 Laws of Power - Robert Greene
+  -  Lord of the Rings (All 6 books) - J.R.R Tolkien
+  -  Harry Potter Series - J.K Rowling
 
 ## How to reach me 📫
 - Email: matthew0sharpe@gmail.com  
-- LinkedIn: <a href="linkedin.com/in/matt-sharpe-9a56591b7">LinkedIn</a>
+- LinkedIn: <a href="linkedin.com/in/matt-sharpe">LinkedIn</a>
      
 
 
