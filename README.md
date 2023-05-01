@@ -13,21 +13,18 @@
 ##### "Leisure without books is death, and burrial of a man alive" - Seneca
 
 ### Objective :muscle:
-Working for one of the FANG is what my Goal is, however you cant spell goal without G, take that how you will 🤓  
-I have always been a forward thinking and creative individual, striving to be a producer :paintbrush:, not a consumer :wastebasket:, a free thinker, not a follower, a wiseass, not a smartass...
+Working for one of the FANG is my goal
+🤓  
+Striving to be a producer :paintbrush:, not a consumer :wastebasket:  
+a free thinker, not a follower, a wiseass, not a smartass...
 
 ### I’m currently working on 🌱 
-- NodeJS Master Class
-- ReactJS Master Class
-- More Hackathons than I can manage 🤓
-- Developing a fullstack website for CEStrategies in a professional capacity. LORD I LOVE NODEJS... slighly sarcastic, but mostly is amazing.
+- Developing a fullstack web app for CEStrategies.
 
 ### My Must-Reads 📖
   -  Sapiens - Yuval Harari  
   -  Atomic Habits - James Clear
-  -  48 Laws of Power - Robert Greene
-  -  Lord of the Rings (All 6 books) - J.R.R Tolkien
-  -  Harry Potter Series - J.K Rowling
+  -  Lord of the Rings - J.R.R Tolkien
 
 ## How to reach me 📫
 - Email: matthew0sharpe@gmail.com  
