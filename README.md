@@ -16,10 +16,9 @@
 Working for one of the FANG is my goal
 🤓  
 Striving to be a producer :paintbrush:, not a consumer :wastebasket:  
-a free thinker, not a follower, a wiseass, not a smartass...
 
 ### I’m currently working on 🌱 
-- Developing a fullstack web app for CEStrategies.
+- Developing a fullstack React + Express + Postgres Web App.
 
 ### My Must-Reads 📖
   -  Sapiens - Yuval Harari  
@@ -27,7 +26,6 @@ a free thinker, not a follower, a wiseass, not a smartass...
   -  Lord of the Rings - J.R.R Tolkien
 
 ## How to reach me 📫
-- Email: matthew0sharpe@gmail.com  
 - LinkedIn: <a href="linkedin.com/in/matt-sharpe">LinkedIn</a>
      
 
