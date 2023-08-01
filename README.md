@@ -25,7 +25,7 @@ Striving to be a producer :paintbrush:, not a consumer :wastebasket:
   -  Lord of the Rings - J.R.R Tolkien
 
 ## How to reach me 📫
-- LinkedIn: <a href="linkedin.com/in/matt-sharpe">LinkedIn</a>
+- LinkedIn: <a href="https://linkedin.com/in/matt-sharpe">LinkedIn</a>
      
 
 
