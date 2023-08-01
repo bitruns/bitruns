@@ -13,12 +13,11 @@
 ##### "Leisure without books is death, and burrial of a man alive" - Seneca
 
 ### Objective :muscle:
-Working for one of the FANG is my goal
-🤓  
 Striving to be a producer :paintbrush:, not a consumer :wastebasket:  
 
 ### I’m currently working on 🌱 
-- Developing a fullstack React + Express + Postgres Web App.
+- Developing a fullstack React + Express + Postgres Web Application for CEStrategies and GOAL Labs - Queen's University
+- Working on a Virtual AI Assistant for Queen's Computing Students Association using Speech Recognition, MySQL, Node and React+Typescript
 
 ### My Must-Reads 📖
   -  Sapiens - Yuval Harari  
