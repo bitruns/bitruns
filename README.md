@@ -1,10 +1,5 @@
 
 # Hi I'm Matthew! Welcome to my Github :relaxed: :octocat:
-<div id="header" align="center">
-
-  <img src="GithubBanner2.png" width="100%"/>
-
-</div>
 
 ### Queen's University Student :mortar_board: Class of 2024  
 
